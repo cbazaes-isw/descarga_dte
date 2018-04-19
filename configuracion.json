@@ -1,0 +1,14 @@
+{
+    "protocol":"https",
+    "host":"awspyme.defontana.com",
+    "idEmpresa": "tiger",
+    "documentIds": [
+        "01afcea4-111c-4c64-8e31-5cd84fb16b90",
+        "02057c7b-e726-4c1c-809b-bc9c451553ce",
+        "0303f719-9a65-46e8-b50c-6f0ebc4ca680",
+        "08649952-3b96-4062-8ce2-ecfd0ca78429",
+        "0948f7bd-2fc0-4178-8867-fff7945215e0",
+        "0a0d4053-7bf4-4777-871c-93531eb53df2"
+    ],
+    "urlBase":"{protocol}://{host}/dfe/common/retrievedocument?idempresa={idempresa}&documentid={documentid}"
+}
